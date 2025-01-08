@@ -13,7 +13,8 @@
 - Install dependencies:
 
     ```bash
-    npm i
+    
+     i
     ```
 
 - Install Playwright browser libs:
